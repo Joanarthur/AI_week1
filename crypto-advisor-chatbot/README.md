@@ -31,21 +31,6 @@ crypto-advisor-chatbot
 └── README.md
 ```
 
-## Installation
-
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```
-   cd crypto-advisor-chatbot
-   ```
-3. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 To run the chatbot, execute the following command:
